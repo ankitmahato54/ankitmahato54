@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Ankit Mahato Banner" />
+  <img src="banner1.png" alt="Ankit Mahato Banner" />
 </p>
 
 <br>
