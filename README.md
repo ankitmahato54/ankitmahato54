@@ -8,7 +8,7 @@
 
 # Hi, I'm Ankit Mahato 👋
 
-### Cloud & Infrastructure • System Administration • Linux • Microsoft Azure
+### Linux • Cloud Computing • Microsoft Azure • SQL
 
 *MCA Student | Google IT Support Certified | Ex-Wipro Scholar Trainee*
 
