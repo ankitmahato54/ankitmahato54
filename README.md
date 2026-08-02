@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="Ankit Mahato Banner" />
+</p>
+
+<br>
+
 <div align="center">
 
 # Hi, I'm Ankit Mahato 👋
