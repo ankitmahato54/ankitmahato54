@@ -14,4 +14,4 @@
 
 I'm passionate about understanding how technology works behind the scenes—from operating systems and networking to cloud infrastructure and databases.
 
-Currently, I'm building practical skills in **Linux Administration, Networking, SQL, Cloud Computing, and Git**, while working on real-world projects to strengthen my IT foundation.
+Currently, I'm strengthening my skills in **SQL, Linux ,Sstem Administration, Microsoft Azure, Cloud Computing**, while building practical projects to deepen my understanding of IT infrastructure and system administration.
