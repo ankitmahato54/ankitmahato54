@@ -1,14 +1,12 @@
-👋 Hi there, I'm Ankit Mahato!
+# 👋 Hi there, I'm Ankit Mahato!
+
+**Master of Computer Applications (MCA)** • **Ex-Wipro Scholar Trainee** • **Aspiring Cloud & Infrastructure Professional**
+
+I enjoy understanding how technology works behind the scenes and continuously strengthen my skills through hands-on learning in **Linux**, **Microsoft Azure**, **SQL**, and **IT Infrastructure**.
 
 ---
 
-**Master of Computer Applications (MCA)** · Ex-Wipro Scholar Trainee · Aspiring **Cloud & Infrastructure** professional
-
-I enjoy understanding how technology works behind the scenes, and I'm continuously building my skills through practical labs and hands-on projects — currently learning **Linux**, **Microsoft Azure**, and **SQL**.
-
----
-
-### Technologies & Tools
+## 💻 Technologies & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -18,31 +16,60 @@ I enjoy understanding how technology works behind the scenes, and I'm continuous
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-2E8B57?style=for-the-badge&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-2E8B57?style=for-the-badge)
 
 ---
 
-### Currently Building
+## 📚 Currently Learning
 
-- Linux Administration Labs
-- Microsoft Azure Labs
-- SQL Practice
-- Cloud Infrastructure Projects
-- Operating System Concepts
-
----
-
-### GitHub Contribution Summary
-
-<img src="https://github-readme-stats.vercel.app/api?username=ankitmahato54&show_icons=true&theme=dark&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmahato54&layout=compact&theme=dark&hide_border=true" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=ankitmahato54&theme=dark&hide_border=true" width="97.5%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitmahato54&theme=react-dark&hide_border=true" width="97.5%" />
+- Linux Administration
+- Microsoft Azure
+- SQL & Database Management
+- Windows Server Fundamentals
+- Networking Fundamentals
+- Cloud Infrastructure Concepts
 
 ---
 
-### Connect
+## 🏆 Certifications
 
-[LinkedIn](https://www.linkedin.com/in/ankitmahato1) · [Credly](https://www.credly.com/users/ankitmahato54) · [Gmail](mailto:ankitmahato54@gmail.com)
+- ✅ Google IT Support Professional Certificate
+- ✅ IBM Skills Network Certifications
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitmahato54&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmahato54&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://streak-stats.demolab.com?user=ankitmahato54&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankitmahato54&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ankitmahato1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/users/ankitmahato54">
+<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
+
+<a href="mailto:ankitmahato54@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
